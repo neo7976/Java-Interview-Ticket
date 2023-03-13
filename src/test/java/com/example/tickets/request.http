@@ -1,0 +1,8 @@
+GET http://localhost:8080/ticket/all
+Accept: application/json
+
+###
+GET http://localhost:8080/ticket/average-time
+Accept: application/json
+
+###
